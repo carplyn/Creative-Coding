@@ -9,7 +9,7 @@ function preload() {
     // Image from Donnachie & Simionato's Evolution of nSpace movie, 
     // you can replace it with any image you like
     // but remember to update the file path and name in the next line!
-    img = loadImage('data/GlitchTV4.jpg');
+    img = loadImage('data/GlitchTV4.JPG');
 }
 
 function setup() {
