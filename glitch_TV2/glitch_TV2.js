@@ -5,7 +5,7 @@ let img, imgXoffset;
 let counter = 0; //this is for the screenshot function at the end of the code
 
 function preload() {
-    img = loadImage('data/pinkpanther.JPEG');
+    img = loadImage('data/pinkpanther.jpeg');
 }
 
 function setup() {
