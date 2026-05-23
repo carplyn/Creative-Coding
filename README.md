@@ -1,6 +1,6 @@
 # Creative-Coding
 
-Glitch TV iterations
+*Glitch TV iterations*
 
 1. https://carplyn.github.io/Creative-Coding/glitch_TV1/
 2. https://carplyn.github.io/Creative-Coding/glitch_TV2/
@@ -11,7 +11,7 @@ Glitch TV iterations
 7. https://carplyn.github.io/Creative-Coding/GlitchTV7/
 8. https://carplyn.github.io/Creative-Coding/GlitchTV8/
 
-Text to Point Lines iterations
+*Text to Point Lines iterations*
 
 1. https://carplyn.github.io/Creative-Coding/text_to_point_lines1/
 2. https://carplyn.github.io/Creative-Coding/text_to_point_lines2/
@@ -22,7 +22,7 @@ Text to Point Lines iterations
 8. https://carplyn.github.io/Creative-Coding/text_to_point_lines7/
 9. https://carplyn.github.io/Creative-Coding/text_to_point_lines8/
 
-3D Worlds iterations
+*3D Worlds iterations*
 
 1. https://carplyn.github.io/Creative-Coding/sketch_3d_worlds1/
 2. https://carplyn.github.io/Creative-Coding/sketch_3d_worlds2/
@@ -33,7 +33,7 @@ Text to Point Lines iterations
 8. https://carplyn.github.io/Creative-Coding/sketch_3d_worlds7/
 9. https://carplyn.github.io/Creative-Coding/sketch_3d_worlds8/
 
-Draw Squares iterations
+*Draw Squares iterations*
 
 1. https://carplyn.github.io/Creative-Coding/draw_squares1/
 2. https://carplyn.github.io/Creative-Coding/draw_squares2/
@@ -44,7 +44,7 @@ Draw Squares iterations
 8. https://carplyn.github.io/Creative-Coding/draw_squares7/
 9. https://carplyn.github.io/Creative-Coding/draw_squares8/
 
-Random Lines Interactive iterations
+*Random Lines Interactive iterations*
 
 1. https://carplyn.github.io/Creative-Coding/random_lines_interactive1/
 2. https://carplyn.github.io/Creative-Coding/random_lines_interactive2/
@@ -54,6 +54,17 @@ Random Lines Interactive iterations
 7. https://carplyn.github.io/Creative-Coding/random_lines_interactive6/
 8. https://carplyn.github.io/Creative-Coding/random_lines_interactive7/
 9. https://carplyn.github.io/Creative-Coding/random_lines_interactive8/
+
+*Sound Intro iterations*
+
+1. https://carplyn.github.io/Creative-Coding/sound_intro1/
+2. https://carplyn.github.io/Creative-Coding/sound_intro2/
+3. https://carplyn.github.io/Creative-Coding/sound_intro3/
+5. https://carplyn.github.io/Creative-Coding/sound_intro4/
+6. https://carplyn.github.io/Creative-Coding/sound_intro5/
+7. https://carplyn.github.io/Creative-Coding/sound_intro6/
+8. https://carplyn.github.io/Creative-Coding/sound_intro7/
+9. https://carplyn.github.io/Creative-Coding/sound_intro8/
 
 
 
