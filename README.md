@@ -33,3 +33,15 @@ Text to Point Lines iterations
 8. https://carplyn.github.io/Creative-Coding/sketch_3d_worlds7/
 9. https://carplyn.github.io/Creative-Coding/sketch_3d_worlds8/
 
+Draw Squares iterations
+
+1. https://carplyn.github.io/Creative-Coding/draw_squares1/
+2. https://carplyn.github.io/Creative-Coding/draw_squares2/
+3. https://carplyn.github.io/Creative-Coding/draw_squares3/
+5. https://carplyn.github.io/Creative-Coding/draw_squares4/
+6. https://carplyn.github.io/Creative-Coding/draw_squares5/
+7. https://carplyn.github.io/Creative-Coding/draw_squares6/
+8. https://carplyn.github.io/Creative-Coding/draw_squares7/
+9. https://carplyn.github.io/Creative-Coding/draw_squares8/
+
+
