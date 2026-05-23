@@ -11,4 +11,6 @@ Glitch TV iterations
 7. https://carplyn.github.io/Creative-Coding/GlitchTV7/
 8. https://carplyn.github.io/Creative-Coding/GlitchTV8/
 
-(I'm not sure why the links for iterations 4, 5, 6 and 7 aren't working but they work when I try play them in Processing...)
+Text to Point Lines iterations
+
+1. https://carplyn.github.io/Creative-Coding/text_to_point_lines1/
