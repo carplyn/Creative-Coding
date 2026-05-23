@@ -44,4 +44,16 @@ Draw Squares iterations
 8. https://carplyn.github.io/Creative-Coding/draw_squares7/
 9. https://carplyn.github.io/Creative-Coding/draw_squares8/
 
+Random Lines Interactive iterations
+
+1. https://carplyn.github.io/Creative-Coding/random_lines_interactive1/
+2. https://carplyn.github.io/Creative-Coding/random_lines_interactive2/
+3. https://carplyn.github.io/Creative-Coding/random_lines_interactive3/
+5. https://carplyn.github.io/Creative-Coding/random_lines_interactive4/
+6. https://carplyn.github.io/Creative-Coding/random_lines_interactive5/
+7. https://carplyn.github.io/Creative-Coding/random_lines_interactive6/
+8. https://carplyn.github.io/Creative-Coding/random_lines_interactive7/
+9. https://carplyn.github.io/Creative-Coding/random_lines_interactive8/
+
+
 
