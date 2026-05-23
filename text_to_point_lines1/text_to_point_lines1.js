@@ -1,6 +1,7 @@
 let myFont;
 let points;
 let sampleF;
+let textWidth = 300; // Font size
 
 // preload() runs before setup() to ensure our font is downloaded/loaded first.
 function preload() {
@@ -14,7 +15,8 @@ function setup() {
   sampleF = 0.05;
 
   // Extract our array of outline points!
-  points = myFont.textToPoints('Lollipop?', (width / 4) - 200, height / 2, 300, {
+  // Center by subtracting half the text width from the center X position
+  points = myFont.textToPoints('Lollipop?', width / 2 - textWidth / 2, height / 2, textWidth, {
     sampleFactor: sampleF,
     simplifyThreshold: 0
   });
@@ -60,7 +62,7 @@ function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
 
   // Recalculate the text points so they are positioned correctly based on the new dimensions
-  points = myFont.textToPoints('Lollipop?', (width / 4) - 200, height / 2, 300, {
+  points = myFont.textToPoints('Lollipop?', width / 2 - textWidth / 2, height / 2, textWidth, {
     sampleFactor: sampleF,
     simplifyThreshold: 0
   });
