@@ -1,6 +1,6 @@
 # Creative-Coding
 
-*Sand Play*: https://carplyn.github.io/Creative-Coding/sand_play/
+*Sand Play*: https://carplyn.github.io/Creative-Coding/sand_play/ (not linked yet)
 
 
 *Text to Point Lines iterations*
